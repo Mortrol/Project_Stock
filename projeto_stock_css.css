@@ -1,0 +1,57 @@
+body{
+	background: lightgray;
+}
+
+#header{
+
+	width: 800px;
+	margin: 0px auto;
+	position: relative;
+	top: 200px;
+}
+
+#title_login h1{
+
+	font-size: 4em;
+	letter-spacing: 30px;
+}
+
+.input_text{
+
+	padding: 10px 255px;
+	border-radius: 20px;
+	box-shadow: 1px 5px 3px black;
+}
+
+#area_user_login p{
+
+	font-size: 2em;
+	margin: 5px 0px;
+}
+
+#button_area{
+
+	position: relative;
+	top: 50px;
+	right: 60px;
+	padding: 20px;
+	text-align: center;
+
+}
+
+#button_login{
+
+	font-size: 20px;
+	color: white;
+	background: goldenrod;
+	padding: 10px 60px;
+	border-radius: 15px;
+	margin: 0px auto;
+	box-shadow: 1px 5px 3px black;
+}
+
+#button_login:hover{
+
+	background: black;
+
+}
